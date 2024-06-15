@@ -1,4 +1,4 @@
-Background:
+Background: 
 
 Rose manages a personal library with a diverse collection of books. To streamline her library management, she needs a program that can categorize books based on their genres, making it easier to find and organize her collection.
 
