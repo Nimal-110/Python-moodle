@@ -12,7 +12,7 @@ Print the square root of the number or an error message if an exception occurs.
 
 For example:
 
-Input	Result
+Input	Result 
 
 16	The square root of 16.0 is 4.00
 
