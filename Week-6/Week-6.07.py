@@ -7,7 +7,7 @@ Reverse a string without affecting special characters. Given a string S, contain
 Input:
 
 A&B
-
+ 
 Output:
 
 B&A
