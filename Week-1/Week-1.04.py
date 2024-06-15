@@ -3,7 +3,7 @@ Gain percent
 Alfred buys an old scooter for Rs. X and spends Rs. Y on its repairs. If he sells the scooter for Rs. Z (Z>X+Y). Write a program to help Alfred to find his gain percent. Get all the above-mentioned values through the keyboard and find the gain percent.
 
 
-
+ 
 Input Format:
 
 The first line contains the Rs X
