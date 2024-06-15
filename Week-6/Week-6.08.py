@@ -8,7 +8,7 @@ Write a program to check if two strings are balanced. For example, strings s1 an
 
 For example:
 
-
+ 
 
 Input	Result
 
