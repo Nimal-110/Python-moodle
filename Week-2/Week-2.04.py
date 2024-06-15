@@ -7,7 +7,7 @@ Sample Input
 3
 
 Sample Output:
-
+ 
 2
 
 Explanation:
