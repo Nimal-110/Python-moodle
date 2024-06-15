@@ -6,7 +6,7 @@ number of coins of certain denominations that add up to given amount of money.
 
 The only available coins are of values 1, 2, 3, 4
 
-Input Format:
+Input Format: 
 
 Integer input from stdin.
 
