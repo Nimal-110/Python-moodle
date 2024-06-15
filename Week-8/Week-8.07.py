@@ -10,7 +10,7 @@ In the American keyboard:
 
 ●	the third row consists of the characters "zxcvbnm"
 
- 
+  
 
 
 
