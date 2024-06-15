@@ -11,7 +11,7 @@ If the given number is 292, the program should return 2 because there are only 2
 If the given number is 1015, the program should return 3 because there are 3 unique digits in this number, '1', '0', and '5'.
 
 For example:
-
+ 
 Input	Result
 
 292	2
