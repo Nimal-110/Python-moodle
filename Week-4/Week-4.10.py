@@ -7,7 +7,7 @@ Input Format:
 Single integer input.
 
 Output Format:
-
+ 
 Yes or No.
 
 Example Input:
