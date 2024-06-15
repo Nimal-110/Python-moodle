@@ -10,7 +10,7 @@ Input: s1 = "this apple is sweet", s2 = "this apple is sour"
 
 Output: ["sweet","sour"]
 
-Example 2:
+Example 2: 
 
 
 
