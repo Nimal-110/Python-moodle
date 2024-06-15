@@ -1,4 +1,4 @@
-Automorphic number or not
+Automorphic number or not 
 
 An automorphic number is a number whose square ends with the number itself. For example, 5 is an automorphic number because 5*5 =25. The last digit is 5 which same as the given number. 
 
