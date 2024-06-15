@@ -10,7 +10,7 @@ Malayalam is my mother tongue
 
 
 
-Sample Output 1
+Sample Output 1 
 
 is my mother tongue
 
