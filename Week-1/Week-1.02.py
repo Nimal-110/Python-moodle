@@ -7,7 +7,7 @@ Ramesh’s basic salary is input through the keyboard. His dearness allowance is
 Sample Input:
 
 10000
-
+ 
 Sample Output:
 
 16000
