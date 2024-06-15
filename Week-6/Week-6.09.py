@@ -6,7 +6,7 @@ In this exercise, you will create a program that reads words from the user until
 
 Input: 
 
-first
+first 
 
 second
 
