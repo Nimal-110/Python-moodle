@@ -1,4 +1,4 @@
-Admission Eligibility
+Admission Eligibility 
 
 Write a program to find the eligibility of admission for a professional course based on the following criteria:
 
