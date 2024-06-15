@@ -14,7 +14,7 @@ Sample Output 1
 
 February has 28 or 29 days in it.
 
-Sample Input 2
+Sample Input 2 
 
 March
 
