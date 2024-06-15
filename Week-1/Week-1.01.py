@@ -1,11 +1,11 @@
-
+ 
                       Converting Input Strings
 Write a program to convert strings to an integer and float and display its type.
 Sample Output:
 10,<class 'int'>
 10.9,<class 'float'>
 
-For example:
+For example: 
 Input	Result
 10
 10.9	10,<class 'int'>
