@@ -15,7 +15,7 @@ Output format
 Print 1 if such a pair exists and 0 if it doesn’t
 
 Input
-
+ 
 1
 
 3 
