@@ -10,7 +10,7 @@ Input:
 
 1 68 79 4 90 68 1 4 5 
 
-output:
+output: 
 
  1 2
 
