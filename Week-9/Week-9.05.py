@@ -8,7 +8,7 @@ Write a program that computes and displays the Scrabble™ score for a word. Cre
 
 A Scrabble™ board includes some squares that multiply the value of a letter or the value of an entire word. We will ignore these squares in this exercise.
 
-
+ 
 
 The points associated with each letter are shown below:
 
