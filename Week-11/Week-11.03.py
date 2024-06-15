@@ -1,4 +1,4 @@
-Problem Description:
+Problem Description: 
 
 Write a Python script that asks the user to enter a number within a specified range (e.g., 1 to 100). Handle exceptions for invalid inputs and out-of-range numbers.
 
