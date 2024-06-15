@@ -10,7 +10,7 @@ Input
 
 4          
 
-Output
+Output 
 
 1234 
 
