@@ -13,7 +13,7 @@ The first line contains an integer n, the number to factor.
 The second line contains an integer p, the 1-based index of the factor to return.
 
 
-
+ 
 Sample Case 0
 
 Sample Input 0
