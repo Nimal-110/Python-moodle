@@ -10,7 +10,7 @@ m : row size
 
 n: column size
 
-list1 and list 2 :  Two lists
+list1 and list 2 :  Two lists 
 
 Output
 
