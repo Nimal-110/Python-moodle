@@ -9,7 +9,7 @@ Input Format:
 Single Integer Input from stdin.
 
 Output Format:
-
+ 
 Yes or No.
 
 Example Input:
