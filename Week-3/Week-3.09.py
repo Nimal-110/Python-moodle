@@ -11,7 +11,7 @@ Note2 - If the given number is a single digit number, then the second last digit
 For example:
 
 Input	Result
-
+ 
 197	9
 
 
