@@ -8,7 +8,7 @@ For example:
 
 
 
-Input	Result
+Input	Result 
 
 rec@123
 
