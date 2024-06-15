@@ -6,7 +6,7 @@ Sample Test Cases
 
 Test Case 1
 
-Input
+Input 
 
 1
 
