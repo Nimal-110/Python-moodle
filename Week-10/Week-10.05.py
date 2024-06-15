@@ -1,4 +1,4 @@
-Frequency of Elements
+Frequency of Elements 
 
 To find the frequency of numbers in a list and display in sorted order.
 
