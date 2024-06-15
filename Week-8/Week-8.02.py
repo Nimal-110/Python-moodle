@@ -5,7 +5,7 @@ Given a tuple and a positive integer k, the task is to find the count of distinc
 Examples:
 
 Input: t = (5, 6, 5, 7, 7, 8 ), K = 13 
-
+ 
 Output: 2 
 
 Explanation: 
