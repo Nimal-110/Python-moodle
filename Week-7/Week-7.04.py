@@ -7,7 +7,7 @@ They are planning to offer a flat discount. The discount value is calculated as 
 Write an python code to find the discount value for the given total bill amount.
 
 Constraints
-
+ 
 1 <= orderValue< 10e100000
 
 Input
