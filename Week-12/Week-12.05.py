@@ -9,7 +9,7 @@ Problem Statement:
 Develop a Python program that reads a series of book titles and their corresponding genres from user input, categorizes the books by genre using a dictionary, and outputs the list of books under each genre in a formatted manner.
 
 
-
+ 
 Input Format:
 
 
