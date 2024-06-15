@@ -15,7 +15,7 @@ Output : {‘best’: 10, ‘Gfg’: 16}
 Explanation : Sorted by sum, and replaced.
 
  Sample Input:
-
+ 
 2
 
 Gfg 6 7 4
