@@ -12,7 +12,7 @@ arr=[1,2,3,4,6]
 
 ·         The index of the pivot is 3.
 
-Constraints
+Constraints 
 
 ·         3 ≤ n ≤ 105
 
